@@ -21,8 +21,8 @@ function App() {
           target="_blank"
         >
           open-sourced on GitHub
-        </a>
-        .
+        </a>{" "}
+        and <a href="">hosted on Netlify</a>.
       </p>
     </div>
   );
